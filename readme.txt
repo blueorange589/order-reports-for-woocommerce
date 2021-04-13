@@ -49,7 +49,7 @@ Yes, using time frame selectors, you can retrieve list of orders between any dat
 
 == Changelog ==
 
-= 1.0 =
+= 1.0.0 =
 * Initial release
 
 
