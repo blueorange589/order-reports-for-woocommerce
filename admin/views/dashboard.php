@@ -150,7 +150,7 @@
 									</ul>
 								</div>
 								<div>
-									<a class="fin-button flr" href="https://fitpresso.com/?autologin_code=VlH3sg8JVufnmwSNUIl2OicBrEYx0HjY" target="_blank"><?php _e( 'Live Demo', 'orfw' ); ?></a>
+									<a class="fin-button flr" href="https://finpose.com/demo.htmlc" target="_blank"><?php _e( 'Live Demo', 'orfw' ); ?></a>
 									<a class="fin-button flr" href="https://finpose.com/?utm_source=orfw&utm_medium=plugins" target="_blank"><?php _e( 'More Information', 'orfw' ); ?></a>
 								</div>
 							</div>
